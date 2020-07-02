@@ -1,8 +1,6 @@
-# Week 02 Homework: CSS Bootstrap
+# Lam Personal Portfolio
 
-This is the homework for week 2 where we use the Bootstrap CSS library to create a web page showing our Web Development Portfolio. Bootstrap contains a large amount of premade CSS styles compiled into a library to make website building more efficient.
-
-The purpose of this assignment is to become aquainted with the use of the CSS Library Bootstrap in combination with HTML and CSS to create a website for the first time in this class.
+This is my work in progress portfolio for web development, programming and soon to be other accomplishments and acts. I only wish I had built this earlier in my life to document all the adventures I had from my early twenties till now.
 
 ### Prerequisites and Deployment
 
